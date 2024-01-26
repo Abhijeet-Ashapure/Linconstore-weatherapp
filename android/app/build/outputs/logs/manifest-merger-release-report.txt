@@ -1,0 +1,274 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-geolocation-service] /Users/cosmostaker/Documents/weatherapp-demo/node_modules/react-native-geolocation-service/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/cosmostaker/.gradle/caches/transforms-3/ea139e08bf8a5fb8988b07efb261812f/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/cosmostaker/.gradle/caches/transforms-3/8d0998be664217c1491db1f72943b0e7/transformed/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/c35266a5eae79f24c887a7296d964891/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/592077f78882c3f9f80b602298d788da/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/d7cd23c8c32dde3e7d44d51e84dc9d90/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/cosmostaker/.gradle/caches/transforms-3/052d238467680074abe862d10f6b155e/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/1971f003ad23f0db691d44a58bb4fb9b/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/c3f35b7b236a3aaa65581efc773842ce/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/5056273c027302b4693bb4672958f502/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/2ea5900571e6ae06d16c23c4dd8f2caf/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/f286e73bb11993a4678a3dd29bc7347c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/cosmostaker/.gradle/caches/transforms-3/207140d4b384b061e7629ea1f8fc4cf9/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/ed0ad5e30c3c76534e6933a7602dd71f/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/b78a36e3af67f1c5fb4dcfbb48fb0031/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/666620d708f75a80b3496a6816d7418a/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/34a1715375e51030b00772281ef2b211/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/acfdcb6bc576fdb8bab826e92efcaf77/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/d7a61af54b4fe852e3d6ad067291fb91/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/e9ce8e40e7e92f6de868780fab769425/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/1fd935377d0a1cbc4ae511bd9aff6ccd/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/b1c46daf69099e7ad967866d84c64a95/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/13e9084ae3a63d6a405b564e0d9aa47c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/9f710374184600c1fbae67f9dd24434d/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/cosmostaker/.gradle/caches/transforms-3/7c3c1ba0f4b86700a888ca27153f2850/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/4490bb7049dd9a489b683054d0f49a09/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/8972389a54b3ce6d70c2d8d5bf4061f4/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/beae3e1b12dc0f84e18274d171d7c580/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/cosmostaker/.gradle/caches/transforms-3/68d0d7b95d068ff383d6d766d89bd7b7/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/2756b5c1dc3928ee83810b37ca81f6a7/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/3770bd01d59b2549bc0b129984ea5833/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/cosmostaker/.gradle/caches/transforms-3/b4e77365626427a3097df4780c4cdacc/transformed/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/868678c1bf03bb536f09377082e9cb46/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/e577abce5b30d8dc8354a443d6cb9d76/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/1596476d2d618008fc0a4e2c48b217c6/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/c1a62eceb485817f8afe73798401a79c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/3d71d3df7a968bcb4a6d9cf551aa0b84/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/741883549721f0ede7342bedf5df1dd5/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/b7092b57d4bae261a47c6e76b9bb0902/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/cosmostaker/.gradle/caches/transforms-3/831a614bd529a2013a3a7bcf4b5fd05c/transformed/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/cosmostaker/.gradle/caches/transforms-3/35f9bc510697058d8569307141f59936/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/fb260867514180e0d6aa1c9f8b90347a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/97d67ed614d60a63f8ad1bab7b5ae74f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/d92c1d1c39738b48607db8a89aecae62/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/943713756780fd5f2fdf9ec06cb3283e/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/1a533184162f18eb89d22685ae4950ba/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/2d51ad6c3a5c8ab61afedbcf240da338/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/654781e8468fdb505dd0caf0aabf905c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/f531812bec20b58e278793042f137b62/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/52104c0b1b5959e361adf3f6c3ed560a/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/4679ab48bc6e2ef67ccd8580517399ad/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/cosmostaker/.gradle/caches/transforms-3/ea139e08bf8a5fb8988b07efb261812f/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/cosmostaker/.gradle/caches/transforms-3/ea139e08bf8a5fb8988b07efb261812f/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/c35266a5eae79f24c887a7296d964891/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/c35266a5eae79f24c887a7296d964891/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/592077f78882c3f9f80b602298d788da/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/592077f78882c3f9f80b602298d788da/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/d7cd23c8c32dde3e7d44d51e84dc9d90/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/d7cd23c8c32dde3e7d44d51e84dc9d90/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/cosmostaker/.gradle/caches/transforms-3/052d238467680074abe862d10f6b155e/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/cosmostaker/.gradle/caches/transforms-3/052d238467680074abe862d10f6b155e/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/1971f003ad23f0db691d44a58bb4fb9b/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/1971f003ad23f0db691d44a58bb4fb9b/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/cosmostaker/.gradle/caches/transforms-3/68d0d7b95d068ff383d6d766d89bd7b7/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/cosmostaker/.gradle/caches/transforms-3/68d0d7b95d068ff383d6d766d89bd7b7/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.2.0] /Users/cosmostaker/.gradle/caches/transforms-3/831a614bd529a2013a3a7bcf4b5fd05c/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/cosmostaker/.gradle/caches/transforms-3/831a614bd529a2013a3a7bcf4b5fd05c/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/cosmostaker/.gradle/caches/transforms-3/35f9bc510697058d8569307141f59936/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/cosmostaker/.gradle/caches/transforms-3/35f9bc510697058d8569307141f59936/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/cosmostaker/.gradle/caches/transforms-3/831a614bd529a2013a3a7bcf4b5fd05c/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:10:7-39
+	android:roundIcon
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:12:7-52
+	android:icon
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:name
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.weatherapp.MainActivity
+ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:15:7-26:18
+	android:label
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:launchMode
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:19:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:exported
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:21:9-32
+	android:configChanges
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:18:9-118
+	android:name
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml:24:23-70
+uses-sdk
+INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-geolocation-service] /Users/cosmostaker/Documents/weatherapp-demo/node_modules/react-native-geolocation-service/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/cosmostaker/Documents/weatherapp-demo/node_modules/react-native-geolocation-service/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/cosmostaker/.gradle/caches/transforms-3/ea139e08bf8a5fb8988b07efb261812f/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/cosmostaker/.gradle/caches/transforms-3/ea139e08bf8a5fb8988b07efb261812f/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/cosmostaker/.gradle/caches/transforms-3/8d0998be664217c1491db1f72943b0e7/transformed/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/cosmostaker/.gradle/caches/transforms-3/8d0998be664217c1491db1f72943b0e7/transformed/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/c35266a5eae79f24c887a7296d964891/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/c35266a5eae79f24c887a7296d964891/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/592077f78882c3f9f80b602298d788da/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/592077f78882c3f9f80b602298d788da/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/d7cd23c8c32dde3e7d44d51e84dc9d90/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/d7cd23c8c32dde3e7d44d51e84dc9d90/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/cosmostaker/.gradle/caches/transforms-3/052d238467680074abe862d10f6b155e/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/cosmostaker/.gradle/caches/transforms-3/052d238467680074abe862d10f6b155e/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/1971f003ad23f0db691d44a58bb4fb9b/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/1971f003ad23f0db691d44a58bb4fb9b/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/c3f35b7b236a3aaa65581efc773842ce/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/c3f35b7b236a3aaa65581efc773842ce/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/5056273c027302b4693bb4672958f502/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/5056273c027302b4693bb4672958f502/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/2ea5900571e6ae06d16c23c4dd8f2caf/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/2ea5900571e6ae06d16c23c4dd8f2caf/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/f286e73bb11993a4678a3dd29bc7347c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/f286e73bb11993a4678a3dd29bc7347c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /Users/cosmostaker/.gradle/caches/transforms-3/207140d4b384b061e7629ea1f8fc4cf9/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/cosmostaker/.gradle/caches/transforms-3/207140d4b384b061e7629ea1f8fc4cf9/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/ed0ad5e30c3c76534e6933a7602dd71f/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/ed0ad5e30c3c76534e6933a7602dd71f/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/b78a36e3af67f1c5fb4dcfbb48fb0031/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/b78a36e3af67f1c5fb4dcfbb48fb0031/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/666620d708f75a80b3496a6816d7418a/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/666620d708f75a80b3496a6816d7418a/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/34a1715375e51030b00772281ef2b211/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/34a1715375e51030b00772281ef2b211/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/acfdcb6bc576fdb8bab826e92efcaf77/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/acfdcb6bc576fdb8bab826e92efcaf77/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/d7a61af54b4fe852e3d6ad067291fb91/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/d7a61af54b4fe852e3d6ad067291fb91/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/e9ce8e40e7e92f6de868780fab769425/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/e9ce8e40e7e92f6de868780fab769425/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/1fd935377d0a1cbc4ae511bd9aff6ccd/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/1fd935377d0a1cbc4ae511bd9aff6ccd/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/b1c46daf69099e7ad967866d84c64a95/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/b1c46daf69099e7ad967866d84c64a95/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/13e9084ae3a63d6a405b564e0d9aa47c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/13e9084ae3a63d6a405b564e0d9aa47c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/9f710374184600c1fbae67f9dd24434d/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/9f710374184600c1fbae67f9dd24434d/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/cosmostaker/.gradle/caches/transforms-3/7c3c1ba0f4b86700a888ca27153f2850/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/cosmostaker/.gradle/caches/transforms-3/7c3c1ba0f4b86700a888ca27153f2850/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/4490bb7049dd9a489b683054d0f49a09/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/4490bb7049dd9a489b683054d0f49a09/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/8972389a54b3ce6d70c2d8d5bf4061f4/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/8972389a54b3ce6d70c2d8d5bf4061f4/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/beae3e1b12dc0f84e18274d171d7c580/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/beae3e1b12dc0f84e18274d171d7c580/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/cosmostaker/.gradle/caches/transforms-3/68d0d7b95d068ff383d6d766d89bd7b7/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/cosmostaker/.gradle/caches/transforms-3/68d0d7b95d068ff383d6d766d89bd7b7/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/2756b5c1dc3928ee83810b37ca81f6a7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/2756b5c1dc3928ee83810b37ca81f6a7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/3770bd01d59b2549bc0b129984ea5833/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/3770bd01d59b2549bc0b129984ea5833/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/cosmostaker/.gradle/caches/transforms-3/b4e77365626427a3097df4780c4cdacc/transformed/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/cosmostaker/.gradle/caches/transforms-3/b4e77365626427a3097df4780c4cdacc/transformed/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/868678c1bf03bb536f09377082e9cb46/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/868678c1bf03bb536f09377082e9cb46/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/e577abce5b30d8dc8354a443d6cb9d76/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/e577abce5b30d8dc8354a443d6cb9d76/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/1596476d2d618008fc0a4e2c48b217c6/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/1596476d2d618008fc0a4e2c48b217c6/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/c1a62eceb485817f8afe73798401a79c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/c1a62eceb485817f8afe73798401a79c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/3d71d3df7a968bcb4a6d9cf551aa0b84/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/3d71d3df7a968bcb4a6d9cf551aa0b84/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/741883549721f0ede7342bedf5df1dd5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/741883549721f0ede7342bedf5df1dd5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/b7092b57d4bae261a47c6e76b9bb0902/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/b7092b57d4bae261a47c6e76b9bb0902/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/cosmostaker/.gradle/caches/transforms-3/831a614bd529a2013a3a7bcf4b5fd05c/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/cosmostaker/.gradle/caches/transforms-3/831a614bd529a2013a3a7bcf4b5fd05c/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/cosmostaker/.gradle/caches/transforms-3/35f9bc510697058d8569307141f59936/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/cosmostaker/.gradle/caches/transforms-3/35f9bc510697058d8569307141f59936/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/fb260867514180e0d6aa1c9f8b90347a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/fb260867514180e0d6aa1c9f8b90347a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/97d67ed614d60a63f8ad1bab7b5ae74f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/97d67ed614d60a63f8ad1bab7b5ae74f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/d92c1d1c39738b48607db8a89aecae62/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/d92c1d1c39738b48607db8a89aecae62/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/943713756780fd5f2fdf9ec06cb3283e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/943713756780fd5f2fdf9ec06cb3283e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/1a533184162f18eb89d22685ae4950ba/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/1a533184162f18eb89d22685ae4950ba/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/2d51ad6c3a5c8ab61afedbcf240da338/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/2d51ad6c3a5c8ab61afedbcf240da338/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/654781e8468fdb505dd0caf0aabf905c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/654781e8468fdb505dd0caf0aabf905c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/f531812bec20b58e278793042f137b62/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/f531812bec20b58e278793042f137b62/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/52104c0b1b5959e361adf3f6c3ed560a/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/cosmostaker/.gradle/caches/transforms-3/52104c0b1b5959e361adf3f6c3ed560a/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/4679ab48bc6e2ef67ccd8580517399ad/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/4679ab48bc6e2ef67ccd8580517399ad/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cosmostaker/Documents/weatherapp-demo/android/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/592077f78882c3f9f80b602298d788da/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/592077f78882c3f9f80b602298d788da/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/592077f78882c3f9f80b602298d788da/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/592077f78882c3f9f80b602298d788da/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/1971f003ad23f0db691d44a58bb4fb9b/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/1971f003ad23f0db691d44a58bb4fb9b/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cosmostaker/.gradle/caches/transforms-3/1971f003ad23f0db691d44a58bb4fb9b/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
